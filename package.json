@@ -1,5 +1,6 @@
 {
   "name": "netflixreplica",
+  "main": "App.js",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
